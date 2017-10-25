@@ -1,0 +1,6 @@
+production:
+  propublica_api: #Enter in own api key 
+development:
+  propublica_api: #Enter in own api key 
+test:
+  propublica_api: #Enter in own api key 
