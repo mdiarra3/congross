@@ -1,4 +1,4 @@
-class RepresentativEsController < ApplicationController
+class RepresentativesController < ApplicationController
   before_action :set_representative, only: [:show, :edit, :update, :destroy]
 
   # GET /representatives
